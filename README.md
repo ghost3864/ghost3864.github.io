@@ -1,4 +1,4 @@
-# Portfólio de Marco
+# Portfólio de Marcos
 
 Página de portfólio pessoal criada com HTML, CSS e JavaScript.
 
